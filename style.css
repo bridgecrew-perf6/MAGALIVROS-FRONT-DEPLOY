@@ -16,7 +16,10 @@ section{
   color: white;
   background-color: rgb(46, 45, 45);
   border-radius: 1rem;
-  font: 1.2rem "Fira Sans", sans-serif;;
+  font: 1.2rem "Fira Sans", sans-serif;
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+  
 
 }
 
